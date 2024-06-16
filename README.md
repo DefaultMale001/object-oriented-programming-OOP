@@ -1,2 +1,2 @@
-# object-oriented-programming-OOP
+# Object-Oriented-Programming-OOP
 Object-Oriented Learning Resources
